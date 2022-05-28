@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mperkins808
 - 👀 I’m interested in software development
-- 🌱 I’m currently stufying a Bachelor of Information Technology majoring in Application Development
+- 🌱 I’m currently studying a Bachelor of Information Technology majoring in Application Development
 - 📫 How to reach me on linked in https://www.linkedin.com/in/mat-perkins-7a503a182/ or through email. mperkins@deakin.edu.au
 
 <!---
